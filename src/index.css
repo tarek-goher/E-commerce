@@ -1,0 +1,62 @@
+body{
+  margin: 0;
+  padding: 0;
+  font-family: "Roboto", serif !important;
+
+}
+html{
+  scroll-behavior: smooth;
+}
+:root{
+  --min-color:#1f2278;
+  --orang-color:#f17732;
+  --btn-color:#565acf;
+}
+section , footer , header{
+  width: 100%;
+  height: auto;
+  overflow: hidden;
+  max-width: 100%;
+  padding: 25px 0px;
+  margin-top: 50px;
+}
+a{
+  text-decoration: none !important;
+}
+span{
+  display: block;
+}
+ul{
+  margin: 0;
+  padding: 0;
+}
+li{
+  list-style-type: none;
+}
+button{
+  text-align: center;
+  box-sizing: border-box;
+  height: 40px;
+  border-radius: 4px;
+}
+p{
+  line-height: 28px;
+}
+input{
+  box-sizing: border-box;
+  border: 1px;
+  text-align: left;
+  padding: 5px;
+  color: #333;
+  font-size: 16px;
+  font-family: 'Tajawal';
+}
+.btn-mein{
+  border-radius:  5px !important;
+  border: 1px solid #888 !important;
+ text-transform: capitalize !important;
+ padding-top: 7px !important;
+ padding-bottom: 7px !important;
+ font-size:  16px !important;
+ height: auto;
+}

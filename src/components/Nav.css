@@ -1,0 +1,54 @@
+.head1{
+    margin: 0px 20px;
+}
+.icons{
+    margin-bottom:  9px;
+}
+.ico-light{
+    color: #fff;
+    margin-bottom: 5px;
+}
+.tex .MuiTypography-root {
+    color: #fff !important;
+}
+/* ----------------------------------------------------------- */
+.css-vzpzbl{
+    height: 30%;
+    display: flex;
+    align-items: center;
+    margin: auto ;
+}
+/* --------------------------------------------------- */
+.contact{
+    display: flex !important;
+    justify-content: space-between !important;
+    margin-top: 45px !important;
+}
+
+
+
+
+/* ---------------------------------------------- */
+/* slider */
+/* .swiper {
+    width: 100%;
+    height: 100%;
+  }
+  
+  .swiper-slide {
+    text-align: center;
+    font-size: 18px;
+    background: #fff;
+  
+  
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .swiper-slide img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  } */
